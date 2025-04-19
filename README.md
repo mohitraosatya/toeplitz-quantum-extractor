@@ -13,7 +13,7 @@ Tiny Colab project that:
 
 ## Quick start
 1. Open `notebook.ipynb` in Google Colab.  
-2. Run cells top→bottom (‑‑> ✅ at the end).  
+2. Run cells top→bottom (‑‑> at the end).  
 3. Optional: replace Cell 3 with live Qrypt Entropy‑as‑a‑Service.
 
 ## Requirements
